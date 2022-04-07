@@ -11,6 +11,6 @@ Thanks to @alessiocelentano and @Eccentrici for the idea.
   Uptime: Since the 1st January 2017
   Languages: JavaScript, Python
   IDE: VSCode 
-  Website: Currently none
+  Website: https://hugo.rest
   ```
 </div>
